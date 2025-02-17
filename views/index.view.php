@@ -2,9 +2,11 @@
 
 <?php require 'partials/nav.php' ?>
 
+<?php require 'partials/calender.php' ?>
+
     <section class="heading">
-        <h1 class="title center">Hathor Website Design</h1>
-        <h3 class="sub-title center">Share Your Dream</h3>
+        <h1 class="title center">Dashboard</h1>
+        <!-- <h3 class="sub-title center">Share Your Dream</h3> -->
         <hr width="100%" class="center">
     </section>
 
@@ -24,3 +26,4 @@
     </section>
 
 <?php require 'partials/footer.php' ?>
+
